@@ -8,18 +8,14 @@
 .link {
   background-color: aqua;
 }
-li {
-  height: 50px;
-}
+
 #li {
   border: none;
   border-bottom: 2px solid green;
-  /* transition: 1s ease-in-out; */
 }
-/* .list {
-  background-color: aqua;
-} */
-
+ul {
+  padding-bottom: 0px;
+}
 .li {
   font-weight: 600;
   text-decoration: none;
@@ -37,4 +33,10 @@ li {
   font-size: 1.2rem;
   padding-bottom: 40px;
   color: black;
+}
+@media (min-width: 768px) {
+  ul {
+    padding-bottom: 7px;
+    border-bottom: 2px solid rgba(237, 237, 237, 0.936);
+  }
 }

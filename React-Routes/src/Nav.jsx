@@ -20,7 +20,7 @@ function Nav() {
             className="collapse navbar-collapse mt-3"
             id="navbarSupportedContent"
           >
-            <ul className="navbar-nav me-auto mb-2 d-lg-flex  justify-content-center gap-lg-5 w-100 ">
+            <ul className="navbar-nav me-auto mb-2 d-lg-flex  justify-content-center gap-4 gap-lg-5 w-100 h-auto">
               <li className="text-decoration-none">
                 <NavLink
                   to={"/"}
