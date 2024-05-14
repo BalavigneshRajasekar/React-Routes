@@ -4,10 +4,10 @@ import CourseCard from "./CourseCard";
 function Careers() {
   return (
     <>
-      <div className="text-center mt-2 bg-success px-2 py-3 text-light rounded-1 flex-wrap">
+      <div className="text-center mt-2 bg-success px-2 py-3 text-light rounded-1 ">
         <h1>Currently 2 Opening is going on</h1>
       </div>
-      <div className="d-flex justify-content-center mt-3 gap-5">
+      <div className="d-flex justify-content-center mt-3 gap-5 flex-wrap">
         <CourseCard
           title={"Graphic Designer"}
           pic={"development.webp"}
