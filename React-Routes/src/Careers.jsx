@@ -10,7 +10,7 @@ function Careers() {
       <div className="d-flex justify-content-center mt-3 gap-5">
         <CourseCard
           title={"Graphic Designer"}
-          pic={"/public/development.webp"}
+          pic={"development.webp"}
           author={
             "Experience in Illustrator and Photoshop ,Figma , Hands on experience in designing UI "
           }
