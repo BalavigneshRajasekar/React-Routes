@@ -15,7 +15,7 @@ function Routers() {
         <Nav></Nav>
         <Routes>
           <Route path="/" element={<Home></Home>}></Route>
-          <Route path="/All" element={"/All"}></Route>
+
           <Route
             path="/FullStackDevelopment"
             element={<FullStackDevelopment></FullStackDevelopment>}
