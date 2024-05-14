@@ -10,7 +10,7 @@ Created a connection between components with react-router-dom with this we can t
 
 ## Demo
 
-https://price-card-ui.vercel.app/
+https://react-routes-zeta.vercel.app/
 
 ## Documentation
 
